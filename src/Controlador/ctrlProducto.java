@@ -32,7 +32,6 @@ public class ctrlProducto implements ActionListener {
 
     public void Iniciar() {
         frm.setTitle("Productos");
-        frm.txtId.setVisible(false);
     }
 
     @Override

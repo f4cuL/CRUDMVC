@@ -37,7 +37,7 @@ public class consultasProducto extends Conexion {
     public boolean modificar(Producto pro) {
         PreparedStatement ps = null;
         Connection con = getConexion();
-        String sql = "update producto set codigo=?, nombre=?, precio? where id=?";
+        String sql = "UPDATE producto SET codigo=?, nombre=?, precio=? WHERE id=? ";
         try {
             ps = con.prepareStatement(sql);
             ps.setString(1, pro.getCodigo());

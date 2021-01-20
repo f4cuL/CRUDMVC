@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Vista/Principal.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Controlador/ctrlProducto.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Modelo/Conexion.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Controlador/controlador.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Vista/frmProducto.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Vista/cargarClientes.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Modelo/Cliente.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Modelo/consultasCliente.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/mvccrud/CRUDMVC.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Modelo/consultasProducto.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/Modelo/Producto.java</file>
+            <file>file:/C:/Users/facue/OneDrive/Documentos/NetBeansProjects/MVCCRUD/src/mvccrud/AppYunMVC.java</file>
+        </group>
+    </open-files>
+</project-private>
